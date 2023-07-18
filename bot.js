@@ -7,8 +7,8 @@ const Extra = require("telegraf/extra");
 const Markup = require("telegraf/markup");
 const session = require("telegraf/session");
 
-const start = 62;
-const end = 634;
+const start = 2;
+const end = 1800;
 
 const bot = new Telegraf(process.env.BOT_TOKEN);
 
